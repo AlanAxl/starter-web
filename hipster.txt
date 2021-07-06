@@ -5,3 +5,15 @@ But now I think I may indeed use "hipster ipsum". I mean... I just smile when I 
 P.S. I noticed in searching today that there is a WordPress plugin (of course!) called "AnyIpsum" that lets you create your own lorem impsum generator.
 
 [1] Why do I need filler text? When I'm working on a web design, it is often helpful to have some text in the columns and text blocks so that you can see what they look like with text in them. You can of course read more about the history of "Lorem ipsum" on Wikipedia.
+
+
+
+For the longest time, my choice when I just needed some columns to fill in with filler text[1] was Bacon Ipsum, which is always fun. The companion to that is of course Veggie Ipsum
+
+But now I think I may indeed use "hipster ipsum". I mean... I just smile when I read through the text. :-)
+
+P.S. I noticed in searching today that there is a WordPress plugin (of course!) called "AnyIpsum" that lets you create your own lorem impsum generator.
+
+[1] Why do I need filler text? When I'm working on a web design, it is often helpful to have some text 
+in the columns and text blocks so that you can see what they look like with text in them. You can of course 
+read more about the history of "Lorem ipsum" on Wikipedia.
